@@ -1,0 +1,25 @@
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+*.env
+
+# Hide important files and folders
+.env.*
+*.env.*
+secrets.*
+config.*
+*.log
+*.sqlite3
+*.db
+.DS_Store
+.idea/
+.vscode/
+*.bak
+*.swp
+*.tmp
+node_modules/
+dist/
+build/
+coverage/
+# End of
