@@ -8,7 +8,7 @@ This project demonstrates how to build an GitHub agent using Google's [Agent Dev
 
 ## Demo
 
-![Screenshot](Images/ss.jpeg)
+![Screenshot](./images/ss.jpeg)
 
 [Watch the demo](https://drive.google.com/file/d/1v6abeJ3sbVlH5b2Au69lkC5Q73CKkefM/view?usp=sharing)
 
